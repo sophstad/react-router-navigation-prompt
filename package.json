@@ -37,7 +37,7 @@
   "homepage": "https://github.com/ZacharyRSmith/react-router-navigation-prompt#readme",
   "peerDependencies": {
     "react": ">=15",
-    "react-router-dom": ">=4.x"
+    "react-router-dom": ">=4.x <6.x"
   },
   "devDependencies": {
     "@types/react": "^16.4.16",
